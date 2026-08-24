@@ -22,6 +22,6 @@ Software Developer and Game Designer. I like making my imagination into reality.
 
 ---
 
-**Looking for:** [ Job/Internship](https://www.linkedin.com/in/kortaykokturk/)
+**Contact:** [ LinkedIn](https://www.linkedin.com/in/kortaykokturk/)
 
 
