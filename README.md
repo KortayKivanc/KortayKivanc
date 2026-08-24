@@ -10,9 +10,9 @@ Software Developer and a Game designer. I like making my imagination into realit
 ---
 
 ### Proudest Works
--**Dugneon Generator:** created an algorithm that generate completely random and connected dungeons using pre-made assets.
+-**[Dungeon Generator](https://github.com/KortayKivanc/DungeonGeneratorAlgorithm):** Created an algorithm that is highly customizable and can generate completely random and traversable, connected dungeons using also highly customizable assets that the user can create on their own.
 
--**USV Ground Controller:** worked in a team with 4 people that created a Ground Control Station for a USV that made high scores (91/100) in yearly Teknofest.
+-**[USV Ground Controller](https://cakubarbaros.com/duyuru-detail.php?id=yer-kontrol-istasyonu-v3-2):** Led a team of 4 people that created a Ground Control Station for a USV that made high scores (91/100) in yearly Teknofest.
 
 ---
 
