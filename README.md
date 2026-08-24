@@ -1,6 +1,8 @@
-## Hi there I am kortay
 
 ![a fox](https://i.pinimg.com/736x/3b/23/fb/3b23fbe39977d641c58bb74139ea5d72.jpg)
+
+## Hi there I am kortay
+
 
 Software Developer and Game Designer. I like making my imagination into reality.
 
