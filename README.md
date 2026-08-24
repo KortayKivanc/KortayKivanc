@@ -4,6 +4,7 @@ Software Developer and a Game designer. I like making my imagination into realit
 
 
 **Currently:** building a first person shooter in the go.
+
 **Learning:** AI optimisation for path finding.
 
 
