@@ -1,5 +1,7 @@
 ## Hi there I am kortay
 
+![a fox](https://www.pinterest.com/pin/990017930585722904/)
+
 Software Developer and Game Designer. I like making my imagination into reality.
 
 
