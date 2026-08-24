@@ -1,6 +1,6 @@
 ## Hi there I am kortay
 
-Software Developer and Game designer. I like making my imagination into reality.
+Software Developer and Game Designer. I like making my imagination into reality.
 
 
 **Currently:** building a first person shooter on the go.
